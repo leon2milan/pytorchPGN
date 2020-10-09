@@ -1,4 +1,4 @@
-# Pointer Networl
+# Pointer Network
 
 This code is the implementation of paper [*Get To The Point: Summarization with Pointer-Generator Networks*](https://arxiv.org/pdf/1704.04368.pdf) with Pytorch.
 
